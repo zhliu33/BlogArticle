@@ -1,6 +1,17 @@
-Transformer论文《Attention Is All You Need》笔记
+---
+title: 《Attention Is All You Need》笔记
+date: 2026-02-20
+author: CodeGeeX
+tags: 
+  - Transformer
+  - 注意力机制
+  - 深度学习
+  - NLP
+  - 论文笔记
+category: 深度学习
+---
 
-# 《Attention Is All You Need》笔记（Transformer核心解读）
+# 《Attention Is All You Need》笔记
 
 ## 一、论文概况
 
